@@ -2,12 +2,12 @@
 
 ## I am a Full-Stack Developer from Charlotte, NC, and I love to use Raspberry Pi and Arduino to solve problems. 
 
-- 🌱 I’m currently in the Thinkful Engineering Immersion program, and right now I am learning React
+  - I’m currently in the Thinkful Engineering Immersion program, and right now I am learning React
 
 ## My current side projects include: 
   - Building a react app to dynamically display sales statistics for a company called 'Freshlist'
-  - Using a Raspberry Pi, openCV, and Arduino to make a robot arm wave and generate a message on a display when it recognizes someone
   - Creating a follower counter for the 'Sports Biz Camps' LinkedIn page
+  - Using a Raspberry Pi, openCV, and Arduino to make a robot arm wave and generate a message on a display when it recognizes someone
 
 ## My goals for the rest of 2020:
   - Network with at least 5 software developers in the Charlotte area
@@ -18,6 +18,7 @@
 <!-- [<img align="left" alt="roberthammock.com" width="25px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website] -->
 [<img align='left' alt='Robert Hammock LinkedIn' width='25px' src='https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg' />][linkedIn]
 [<img align='left' alt='Robert Hammock Instagram' width='25px' src='https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg' />][instagram]
+<br>
 
 ## Languages:
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
