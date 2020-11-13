@@ -1,11 +1,11 @@
 ### Hi there, my name is Robert Hammock 👋
 
-## I am a Full-Stack Developer from Charlotte, NC, and I love to use Raspberry Pi and Arduino to solve problems. 
+## I am a Full-Stack Developer from Charlotte, NC and I love to use Raspberry Pi and Arduino to solve problems. 
 
   - I’m currently in the Thinkful Engineering Immersion program, and right now I am learning React
 
 ## My current side projects include: 
-  - Building a react app to dynamically display sales statistics for a company called 'Freshlist'
+  - Building a react app to search company recipes for a local Food Hub 'Freshlist'
   - Creating a follower counter for the 'Sports Biz Camps' LinkedIn page
   - Using a Raspberry Pi, openCV, and Arduino to make a robot arm wave and generate a message on a display when it recognizes someone
 
