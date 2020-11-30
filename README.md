@@ -2,7 +2,7 @@
 
 ## I am a Full-Stack Developer from Charlotte, NC and I love to use Raspberry Pi and Arduino to solve problems. 
 
-  - I’m currently in the Thinkful Engineering Immersion program, and right now I am learning React
+  - I’m currently in the Thinkful Engineering Immersion program, and right now I am learning Express, Node.js, and PostgreSQL
 
 ## My current side projects include: 
   - Building a react app to search company recipes for a local Food Hub 'Freshlist'
