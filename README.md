@@ -2,17 +2,17 @@
 
 ## I am a Full-Stack Developer from Charlotte, NC and I love to use Raspberry Pi and Arduino to solve problems. 
 
-  - I’m currently in the Thinkful Engineering Immersion program, and right now I am learning Express, Node.js, and PostgreSQL
+  - I recently completed Thinkful's Engineering Immersion program where I learned full stack JavaScript
 
 ## My current side projects include: 
-  - Building a react app to search company recipes for a local Food Hub 'Freshlist'
-  - Creating a follower counter for the 'Sports Biz Camps' LinkedIn page
-  - Using a Raspberry Pi, openCV, and Arduino to make a robot arm wave and generate a message on a display when it recognizes someone
+  - Building an Express server to go with the client of Freshlist Recipe Search
+  - Cleaning up the What's for dinner app so it can be monetized
+  - Using Arduino to interface with sensors and record data about the world around me
 
-## My goals for the rest of 2020:
-  - Network with at least 5 software developers in the Charlotte area
-  - Practice what I have learned with side projects
-  - Identify at least 5 companies in my area that align with my values and could be a potential employer
+## My goals for 2021:
+  - Get a full time programming position
+  - Complete 3 meaningful side projects
+  - Read 5 books about programming
   
 ## Connect with me:
 <!-- [<img align="left" alt="roberthammock.com" width="25px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website] -->
