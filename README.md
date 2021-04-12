@@ -5,7 +5,7 @@
   - I recently completed Thinkful's Engineering Immersion program where I learned full stack JavaScript
 
 ## My current side projects include: 
-  - Building an Express server to go with the client of Freshlist Recipe Search
+  - Building a Zoom clone with React, Express, PeerJS, and Socket.io
   - Cleaning up the What's for dinner app so it can be monetized
   - Using Arduino to interface with sensors and record data about the world around me
 
