@@ -3,6 +3,7 @@
 ## I am a Full-Stack Developer from Charlotte, NC and I love to use Raspberry Pi and Arduino to solve problems. 
 
   - I recently completed Thinkful's Engineering Immersion program where I learned full stack JavaScript
+  - Currently working as a Software Developer with GoTab
 
 ## My current side projects include: 
   - Building a Zoom clone with React, Express, PeerJS, and Socket.io
