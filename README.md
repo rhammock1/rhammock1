@@ -9,11 +9,11 @@
 ## My current side projects include: 
   - Building Raspberry Pi Zero Game Boy v3 with [RetroPie](https://retropie.org.uk/)
   - Building a continuum robotic arm to move a laser and play with my cats
-  - Building a web app to locally stream The Office
+  - Setting up a local computer as a home server to keep a reverse shell connection alive with AWS ec2 
 
-## My goals for 2021:
-  - [x] Get a full time programming position
-  - [x] Complete 3 meaningful side projects
+## My goals for 2022:
+  - Continue to learn and apply my skills
+  - Complete 3 meaningful side projects
   - Read 5 books about programming
   
 ## Connect with me:
