@@ -8,7 +8,7 @@
 
 ## My current side projects include: 
   - Building Raspberry Pi Zero Game Boy v3 with [RetroPie](https://retropie.org.uk/)
-  - Building a continuum robotic arm to move a laser and play with my cats
+  - Learning `C` and modifying my own fork of [FlipperZero Firmware](https://github.com/flipperdevices/flipperzero-firmware)
   - Setting up a local computer as a home server to keep a reverse shell connection alive with AWS ec2 
 
 ## My goals for 2022:
@@ -17,7 +17,7 @@
   - Read 5 books about programming
   
 ## Connect with me:
-<!-- [<img align="left" alt="roberthammock.com" width="25px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website] -->
+[<img align="left" alt="smokeybear.dev" width="25px" src="https://raw.githubusercontent.com/rhammock1/smokey-bear-portfolio/main/public/bear.ico?token=GHSAT0AAAAAABJKWD66E2DF5PXVARDU52R6YTZJQHQ" />][website] 
 [<img align='left' alt='Robert Hammock LinkedIn' width='25px' src='https://img.icons8.com/cute-clipart/64/000000/linkedin.png' />][linkedIn]
 [<img align='left' alt='Robert Hammock Instagram' width='25px' src='https://img.icons8.com/cute-clipart/64/000000/instagram-new.png' />][instagram]
 <br>
@@ -26,9 +26,14 @@
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="left" alt="Arduino" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/arduino/arduino.png" />
+<img align="left" alt="C Language" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" />
+<img align="left" alt="Linux" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" />
+<img align="left" alt="Bash" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png" />
 
-<!-- [website]: https://roberthammock.com -->
+
+[website]: https://smokeybear.dev
 [instagram]: https://instagram.com/robert.hammock1
 [linkedin]: https://linkedin.com/in/robertqhammock
 
