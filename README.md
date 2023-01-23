@@ -9,12 +9,13 @@
 ## My current side projects include: 
   - Building Raspberry Pi Zero Game Boy v3 with [RetroPie](https://retropie.org.uk/)
   - Learning `C` and modifying my own fork of [FlipperZero Firmware](https://github.com/flipperdevices/flipperzero-firmware)
+  - Learning `Rust` and eventually creating my own terminal shell
   - Setting up a local computer as a home server to keep a reverse shell connection alive with AWS ec2 
 
-## My goals for 2022:
-  - Continue to learn and apply my skills
+## My goals for 2023:
+  - Become proficient with Rust or C
   - Complete 3 meaningful side projects
-  - Read 5 books about programming
+  - Learn more about Assembly, how machines read programs/memory, systems programming
   
 ## Connect with me:
 [<img align="left" alt="smokeybear.dev" width="25px" src="https://github.com/rhammock1/smokey-bear-portfolio/blob/main/public/bear.ico" />][website] 
