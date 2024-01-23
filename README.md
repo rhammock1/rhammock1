@@ -8,12 +8,12 @@
 
 ## My current side projects include: 
   - Building a personal budgeting app that leverages Teller.io and Plaid to get my transaction history
-  - Learning `C`
+  - Building a recipe book app in Java that will run on a Lenovo tablet in my kitchen
   - Setting up a local computer as a home server to keep a reverse shell connection alive with AWS ec2 
 
 ## My goals for 2024:
   - Become proficient with C
-  - Complete 3 meaningful side projects
+  - Complete the 3 current side projects listed above
   - Learn more about Assembly, how machines read programs/memory, systems programming
   
 ## Connect with me:
