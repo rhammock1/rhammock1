@@ -3,17 +3,16 @@
 ## I am a Full-Stack Developer from Charlotte, NC and I love to use Raspberry Pi and Arduino to solve problems. 
 
   - Currently working as a Software Developer with [GoTab Inc.](https://gotab.io)
-  - Will soon be working on a blog to share projects as they are built
-  - Recently used [HyperBian](https://github.com/hyperion-project/HyperBian) to add reactive lights behind my tv
+  - Recently used an ESP32 to run a web server that controls a continuum arm.
+  - Currently reading For Whom the Bell Tolls and Node.JS Design Patterns
 
 ## My current side projects include: 
-  - Building Raspberry Pi Zero Game Boy v3 with [RetroPie](https://retropie.org.uk/)
-  - Learning `C` and modifying my own fork of [FlipperZero Firmware](https://github.com/flipperdevices/flipperzero-firmware)
-  - Learning `Rust` and eventually creating my own terminal shell
+  - Building a personal budgeting app that leverages Teller.io and Plaid to get my transaction history
+  - Learning `C`
   - Setting up a local computer as a home server to keep a reverse shell connection alive with AWS ec2 
 
-## My goals for 2023:
-  - Become proficient with Rust or C
+## My goals for 2024:
+  - Become proficient with C
   - Complete 3 meaningful side projects
   - Learn more about Assembly, how machines read programs/memory, systems programming
   
