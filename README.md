@@ -7,8 +7,9 @@
   - Currently reading For Whom the Bell Tolls and Node.JS Design Patterns
 
 ## My current side projects include: 
-  - Building a personal budgeting app that leverages Teller.io and Plaid to get my transaction history
-  - Building a recipe book app in Java that will run on a Lenovo tablet in my kitchen
+  - Building a [personal budgeting app](https://github.com/rhammock1/penny-pincher) that leverages Teller.io and Plaid to get my transaction history
+  - Building a [recipe book](https://github.com/rhammock1/recipe-book) app in Java that will run on a Lenovo tablet in my kitchen
+  - Building an [alarm clock](https://github.com/rhammock1/alarm-clock-32) with an ESP32 and a few extra modules.
   - Setting up a local computer as a home server to keep a reverse shell connection alive with AWS ec2 
 
 ## My goals for 2024:
