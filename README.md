@@ -3,16 +3,15 @@
 ## I am a Full-Stack Developer from Charlotte, NC and I love to use Raspberry Pi and Arduino to solve problems. 
 
   - Currently working as a Software Developer with [GoTab Inc.](https://gotab.io)
-  - Recently used an ESP32 to run a web server that controls a continuum arm.
-  - Currently reading For Whom the Bell Tolls and Node.JS Design Patterns
+  - Recently set up a MicroK8s cluster running on a few Raspberry pi to host my projects with WireGuard to access it remotely
+  - Currently reading Dracula and Node.JS Design Patterns
 
 ## My current side projects include: 
   - Building a [personal budgeting app](https://github.com/rhammock1/penny-pincher) that leverages Teller.io and Plaid to get my transaction history
-  - Building a [recipe book](https://github.com/rhammock1/recipe-book) app in Java that will run on a Lenovo tablet in my kitchen
+  - Building a [recipe book](https://github.com/rhammock1/recipe-book) web-app, with a WebView wrapper, that will run on a tablet in my kitchen
   - Building an [alarm clock](https://github.com/rhammock1/alarm-clock-32) with an ESP32 and a few extra modules.
-  - Setting up a local computer as a home server to keep a reverse shell connection alive with AWS ec2 
 
-## My goals for 2024:
+## My goals for 2025:
   - Become proficient with C
   - Complete the 3 current side projects listed above
   - Learn more about Assembly, how machines read programs/memory, systems programming
