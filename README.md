@@ -11,7 +11,7 @@
   - Building a [recipe book](https://github.com/rhammock1/recipe-book) web-app, with a WebView wrapper, that will run on a tablet in my kitchen
   - Building an [alarm clock](https://github.com/rhammock1/alarm-clock-32) with an ESP32 and a few extra modules.
 
-## My goals for 2025:
+## My goals for 2026:
   - Become proficient with C
   - Complete the 3 current side projects listed above
   - Learn more about Assembly, how machines read programs/memory, systems programming
