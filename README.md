@@ -2,7 +2,7 @@
 
 ## I am a Full-Stack Developer from Charlotte, NC and I love to use Raspberry Pi and Arduino to solve problems. 
 
-  - Currently working as a Software Developer with [GoTab Inc.](https://gotab.io)
+  - Currently working as a Software Developer with Fastbreak AI.
   - Recently set up a MicroK8s cluster running on a few Raspberry pi to host my projects with WireGuard to access it remotely
   - Currently reading Dracula and Node.JS Design Patterns
 
